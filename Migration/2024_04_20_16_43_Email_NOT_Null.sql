@@ -1,0 +1,1 @@
+-- ALTER TABLE public Students ALTER COLUMN last_name SET NOT NULL;
